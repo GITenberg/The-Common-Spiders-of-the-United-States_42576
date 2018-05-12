@@ -1,0 +1,31 @@
+_repo: The-Common-Spiders-of-the-United-States_42576
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42576-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Emerton, J. H. (James Henry)
+    aliases:
+    - Emerton, James H.
+    - Emerton, James Henry
+    birthdate: 1847
+    deathdate: 1930
+    gutenberg_agent_id: '41749'
+    url: http://www.gutenberg.org/2009/agents/41749
+    wikipedia: http://en.wikipedia.org/wiki/James_Henry_Emerton
+description: ''
+gutenberg_issued: '2013-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42576'
+  lccn: 02017851
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiders -- United States'
+- !lcc 'QL'
+title: The Common Spiders of the United States
+url: http://www.gutenberg.org/ebooks/42576
